@@ -1,0 +1,11 @@
+
+.h1, h1 {
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.form-control{
+    width: 50%;
+    border: 1.5px solid rgb(0, 0, 0);
+}
